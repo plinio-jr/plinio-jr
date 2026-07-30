@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">👩🏻‍💻Plinio Schmidt de Arruda Junior</h1>
+<h1 data-importer="text" align="left">Plinio Schmidt de Arruda Junior</h1>
 
 ###
 
